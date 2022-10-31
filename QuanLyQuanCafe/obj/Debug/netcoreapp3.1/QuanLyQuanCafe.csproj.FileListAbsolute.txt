@@ -1,0 +1,59 @@
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.exe
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.deps.json
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.dll
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.pdb
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.FLogin.resources
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.dll
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.pdb
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.fMain.resources
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.fProduct.resources
+C:\Users\DELL\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.exe
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.deps.json
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.runtimeconfig.json
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.dll
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\QuanLyQuanCafe.pdb
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.FLogin.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.fMain.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.fProduct.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.dll
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.pdb
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.fAccountManager.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.fManager.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.fAccount.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.Views.fStaff.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.Views.fBill.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.Views.fChiTietHoaDon.resources
+C:\Users\DELL\source\repos\QL Cafe\QuanLyQuanCafe\obj\Debug\netcoreapp3.1\QuanLyQuanCafe.Views.fPos.resources
